@@ -17,5 +17,5 @@ curl -L https://huggingface.co/SEVUNX/sdxl_model/resolve/main/download_4/leosams
 curl -L https://huggingface.co/SEVUNX/sdxl_model/resolve/main/download_4/realisticStockPhoto_v20.safetensors?download=true --output  /workspace/ComfyUI/models/checkpoints/realisticStockPhoto_v20.safetensors
 curl -L https://huggingface.co/h94/IP-Adapter/resolve/main/sdxl_models/ip-adapter_sdxl_vit-h.safetensors?download=true --output /workspace/ComfyUI/models/ipadapter/ip-adapter_sdxl_vit-h.safetensors
 curl -L https://huggingface.co/h94/IP-Adapter/resolve/main/sdxl_models/ip-adapter_sdxl.safetensors?download=true --output /workspace/ComfyUI/models/ipadapter/ip-adapter_sdxl.safetensors
-
+curl -L https://civitai.com/api/download/models/351306 --output DreamShaper XL.safetensors
 pip install insightface
