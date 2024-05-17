@@ -6,6 +6,7 @@ git clone https://github.com/Derfuu/Derfuu_ComfyUI_ModdedNodes /workspace/ComfyU
 git clone https://github.com/cubiq/ComfyUI_IPAdapter_plus /workspace/ComfyUI/custom_nodes/ComfyUI_IPAdapter_plus 
 git clone https://github.com/civitai/civitai_comfy_nodes /workspace/ComfyUI/custom_nodes/civitai_comfy_nodes
 
+mkdir /workspace/ComfyUI/models/ipadapter
 
 curl -L https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0/resolve/main/sd_xl_base_1.0.safetensors?download=true --output  /workspace/ComfyUI/models/checkpoints/sd_xl_base_1.0.safetensors
 curl -L https://huggingface.co/h94/IP-Adapter/resolve/main/sdxl_models/ip-adapter-plus_sdxl_vit-h.safetensors?download=true --output /workspace/ComfyUI/models/ipadapter/ip-adapter-plus_sdxl_vit-h.safetensors
