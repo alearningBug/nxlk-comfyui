@@ -5,7 +5,7 @@ git clone https://github.com/ltdrdata/ComfyUI-Inspire-Pack.git /workspace/ComfyU
 git clone https://github.com/Derfuu/Derfuu_ComfyUI_ModdedNodes /workspace/ComfyUI/custom_nodes/Derfuu_ComfyUI_ModdedNodes
 git clone https://github.com/cubiq/ComfyUI_IPAdapter_plus /workspace/ComfyUI/custom_nodes/ComfyUI_IPAdapter_plus 
 git clone https://github.com/civitai/civitai_comfy_nodes /workspace/ComfyUI/custom_nodes/civitai_comfy_nodes
-git clone https://github.com/storyicon/comfyui_segment_anything.git /workspace/ComfyUI/custom_nodes/civitai_comfy_nodes
+git clone https://github.com/storyicon/comfyui_segment_anything.git /workspace/ComfyUI/custom_nodes//comfyui_segment_anything
 
 mkdir /workspace/ComfyUI/models/ipadapter
 
